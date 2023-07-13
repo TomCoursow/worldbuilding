@@ -1,1 +1,39 @@
+{
+  "SETTINGS.SimpleMacroShorthandN": "Kurze Macro Syntax",
+  "SETTINGS.SimpleMacroShorthandL": "Aktiviert eine gekürzte Makro Schreibweise welche es erlaubt Attribute direkt zu referenzieren. Beispiel: @str anstatt @attributes.str.value. Deaktiviere diese Einstellung falls du unbedingt auf volle Attribut Werte zugreifen musst (Beispiel: @attributes.str.label).",
+  "SETTINGS.SimpleInitFormulaN": "Initiative Formel",
+  "SETTINGS.SimpleInitFormulaL": "Trage eine Initiative Formel ein. Beispiel: d20+@dex",
 
+  "SIMPLE.ItemCreate": "Item erstellen",
+  "SIMPLE.ItemEdit": " Item bearbeiten",
+  "SIMPLE.ItemDelete": "Item löschen",
+  "SIMPLE.ItemNew": "Neues Item",
+
+  "SIMPLE.NotifyInitFormulaUpdated": "Initiative Formel wurde geändert auf:",
+  "SIMPLE.NotifyInitFormulaInvalid": "Initiative Formel ist nicht valide",
+  "SIMPLE.NotifyGroupDuplicate": "Attribut Gruppe existiert bereits.",
+  "SIMPLE.NotifyGroupAttrDuplicate": "Attribut Gruppe existiert bereits als Attribut.",
+  "SIMPLE.NotifyGroupAlphanumeric": "Attribut Gruppen Namen dürfen keine Leerzeichen oder Sonderzeichen (Punkte) enthalten.",
+  "SIMPLE.NotifyGroupReserved": "Attribut Gruppe \"{key}\" ist bereits reserviert und kann nicht benutzt werden.",
+  "SIMPLE.NotifyAttrDuplicate": "Attribut's Schlüssel (Key) existiert bereits als Gruppe.",
+  "SIMPLE.NotifyAttrInvalid": "Attributs Schlüssel (Keys) dürfen keine Leerzeichen oder Sonderzeichen (Punkte) enthalten.",
+
+  "SIMPLE.ResourceMin": "Min",
+  "SIMPLE.ResourceValue": "Wert",
+  "SIMPLE.ResourceMax": "Max",
+
+  "SIMPLE.DefineTemplate": "Als Template definieren",
+  "SIMPLE.UnsetTemplate": "Als Template entfernen",
+  "SIMPLE.NoTemplate": "Kein Template",
+
+  "SIMPLE.AttributeKey": "Attribut Schlüssel",
+  "SIMPLE.AttributeValue": "Wert",
+  "SIMPLE.AttributeLabel": "Bezeichnung",
+  "SIMPLE.AttributeDtype": "Datentyp",
+
+  "SIMPLE.DeleteGroup": "Gruppe löschen?",
+  "SIMPLE.DeleteGroupContent": "Willst du diese Gruppe wirklich löschen? Das wird die folgende Gruppe und all ihre Attribute löschen: ",
+
+  "SIMPLE.Create": "Erstellen",
+  "SIMPLE.New": "Neu"
+}
