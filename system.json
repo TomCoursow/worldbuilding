@@ -39,6 +39,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://raw.githubusercontent.com/TomCoursow/worldbuilding/test/system.json",
-  "download": "https://github.com/TomCoursow/worldbuilding/archive/refs/tags/test-release-1.zip"
+  "manifest": "https://raw.githubusercontent.com/TomCoursow/worldbuilding/master/system.json",
+  "download": "https://github.com/TomCoursow/worldbuilding/archive/refs/tags/test-release-2.zip"
 }
